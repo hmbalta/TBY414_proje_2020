@@ -28,7 +28,7 @@ for i in range(len(df)):
         diziSabiha.append(tarihlerSabiha[i])
         i = i + 1
 print('Sabiha Gökçen Havalimanında Kapasite Aşılan Aylar')
-print(diziAtaturk)
+print(diziSabiha)
 print('Sabiha Gökçen Havalimanında Kapasite Aşılan Aylar Toplamı:' , len(diziSabiha))
 
 
